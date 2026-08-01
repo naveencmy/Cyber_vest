@@ -1,0 +1,30 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2026-02-05T23:41:51+05:30",
+  "id": "gdg-ai-agent-basics-ml-60",
+  "duration": 88,
+  "title": "AI Agent Basics with Gemini - ML Tasks Tutorial (60 min)",
+  "authors": "Aditya Mahakali (",
+  "summary": "AI Agent Basics with Gemini - ML Tasks Tutorial (60 min)",
+  "source": "Agent_basic_codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "ai",
+    "machinelearning",
+    "gemini"
+  ],
+  "tags": [
+    "ai-agents",
+    "function-calling",
+    "gemini",
+    "ml",
+    "python"
+  ],
+  "url": "gdg-ai-agent-basics-ml-60"
+}

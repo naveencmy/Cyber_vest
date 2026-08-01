@@ -1,0 +1,42 @@
+{
+  "texts": [
+    {
+      "id": 1,
+      "text": "Apple Inc. announced that Tim Cook will speak at the conference in San Francisco on March 15, 2024.",
+      "entities": [
+        {"text": "Apple Inc.", "type": "ORGANIZATION", "start": 0, "end": 10},
+        {"text": "Tim Cook", "type": "PERSON", "start": 27, "end": 35},
+        {"text": "San Francisco", "type": "LOCATION", "start": 71, "end": 84},
+        {"text": "March 15, 2024", "type": "DATE", "start": 88, "end": 102}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Dr. Sarah Johnson from Stanford University published a research paper on January 10, 2024.",
+      "entities": [
+        {"text": "Dr. Sarah Johnson", "type": "PERSON", "start": 0, "end": 17},
+        {"text": "Stanford University", "type": "ORGANIZATION", "start": 23, "end": 42},
+        {"text": "January 10, 2024", "type": "DATE", "start": 74, "end": 90}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Microsoft and Google are competing in the AI market, with headquarters in Seattle and Mountain View respectively.",
+      "entities": [
+        {"text": "Microsoft", "type": "ORGANIZATION", "start": 0, "end": 9},
+        {"text": "Google", "type": "ORGANIZATION", "start": 14, "end": 20},
+        {"text": "Seattle", "type": "LOCATION", "start": 74, "end": 81},
+        {"text": "Mountain View", "type": "LOCATION", "start": 86, "end": 99}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "The United Nations meeting scheduled for December 2024 will be attended by President Biden.",
+      "entities": [
+        {"text": "United Nations", "type": "ORGANIZATION", "start": 4, "end": 18},
+        {"text": "December 2024", "type": "DATE", "start": 41, "end": 54},
+        {"text": "President Biden", "type": "PERSON", "start": 76, "end": 91}
+      ]
+    }
+  ]
+}

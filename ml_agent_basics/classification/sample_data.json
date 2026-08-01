@@ -1,0 +1,27 @@
+{
+  "training_data": [
+    {"text": "This product is amazing! Best purchase ever.", "label": "positive"},
+    {"text": "I love this item, it exceeded my expectations.", "label": "positive"},
+    {"text": "Fantastic quality and great customer service.", "label": "positive"},
+    {"text": "Absolutely wonderful, highly recommend!", "label": "positive"},
+    {"text": "Perfect! Exactly what I was looking for.", "label": "positive"},
+    {"text": "Terrible quality, waste of money.", "label": "negative"},
+    {"text": "Very disappointed with this purchase.", "label": "negative"},
+    {"text": "Poor quality and arrived damaged.", "label": "negative"},
+    {"text": "Would not recommend, complete disaster.", "label": "negative"},
+    {"text": "Awful product, requesting a refund.", "label": "negative"},
+    {"text": "It's okay, nothing special.", "label": "neutral"},
+    {"text": "Average product, does the job.", "label": "neutral"},
+    {"text": "Not bad, but not great either.", "label": "neutral"},
+    {"text": "Decent quality for the price.", "label": "neutral"},
+    {"text": "It works as expected, no complaints.", "label": "neutral"}
+  ],
+  "test_data": [
+    {"text": "Excellent purchase, very happy with it!", "label": "positive"},
+    {"text": "Great value for money, love it!", "label": "positive"},
+    {"text": "Horrible experience, do not buy.", "label": "negative"},
+    {"text": "Complete waste of time and money.", "label": "negative"},
+    {"text": "It's fine, meets basic requirements.", "label": "neutral"},
+    {"text": "Average quality, nothing remarkable.", "label": "neutral"}
+  ]
+}
